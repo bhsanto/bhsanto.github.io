@@ -1,9 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=👋%20Hi,%20I'm%20Md%20Belal%20Hossain%20Santo&fontSize=35&fontColor=white)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=%20Hi,%20I'm%20Md%20Belal%20Hossain%20Santo&fontSize=30&fontColor=white)
 
 ## About Me
 
-I'm a passionate **Junior Data Scientist** with a strong foundation in statistical analysis, machine learning, and data visualization. I love transforming complex data into meaningful insights that drive business decisions. Currently exploring deep learning applications and MLOps practices.
-
+Aspiring Data Scientist with strong software engineering skills. Skilled in turning complex data into scalable, production-ready solutions. Passionate about machine learning, deep learning, and MLOps to drive real-world impact.
 
 ##  Featured Projects
 

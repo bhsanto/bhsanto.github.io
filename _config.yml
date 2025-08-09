@@ -1,33 +1,13 @@
 # _config.yml
 
-title: "Md Belal Hossain Santo | Data Scientist"
-description: "Junior Data Scientist passionate about transforming data into actionable insights"
-author: "Md Belal Hossain Santo"
-email: "bhsanto786@gmail.com"
+remote_theme             : "mmistakes/minimal-mistakes@4.26.1"
+minimal_mistakes_skin    : "dark"
 
-# Choose a modern, minimal theme with portfolio/blog support
-remote_theme: "mmistakes/minimal-mistakes@4.32.0"  # popular minimal Jekyll theme
 
-# Plugins for SEO, sitemap, feed
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-gist
-
-# Profile image - put your profile pic here
-profile_image: "/assets/profile-pic.jpg"
-
-# Social profiles with full URLs (easier for some themes)
-social_links:
-  github: "https://github.com/bhsanto"
-  linkedin: "https://linkedin.com/in/bhsanto"
-  twitter: "https://twitter.com/iambhsanto"
-
-# Repository URL for GitHub Pages
-repository_url: "https://github.com/bhsanto/bhsanto.github.io"
-
-# Footer text
-footer_text: "© 2025 Md Belal Hossain Santo. All rights reserved."
-
-show_downloads: true
+title                    : "Md Belal Hossain Santo"
+subtitle                 : "Aspiring Data Scientist | Software Engineer"
+name                     : "Your Name"
+description              : "Junior Data Scientist passionate about transforming data into actionable insights"
+url                      : "https://bhsanto.github.io"
+baseurl                  : ""
+repository               : "bhsanto/bhsanto.github.io"

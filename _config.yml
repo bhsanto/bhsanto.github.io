@@ -1,37 +1,45 @@
 # _config.yml
-title: Md Belal Hossain Santo | Data Scientist
-description: Junior Data Scientist passionate about transforming data into actionable insights
-author: Md Belal Hossain Santo
-email: bhsanto786@gmail.com
 
-# Theme settings
-theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+title: "Md Belal Hossain Santo | Data Scientist"
+description: "Junior Data Scientist passionate about transforming data into actionable insights"
+author: "Md Belal Hossain Santo"
+email: "bhsanto786@gmail.com"
+
+# Choose a modern, minimal theme with portfolio/blog support
+remote_theme: "mmistakes/minimal-mistakes@4.32.0"  # popular minimal Jekyll theme
+
+# Plugins for SEO, sitemap, feed
 plugins:
-  - jekyll-remote-theme # add this line to use the remote theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-gist
 
-# Profile picture (put your image file in the assets folder or root)
-profile_image: /assets/profile-pic.jpg  # adjust path to your image file
+# Profile image - put your profile pic here
+profile_image: "/assets/profile-pic.jpg"
 
-# Social links
-github_username: bhsanto
-linkedin_username: bhsanto
-twitter_username: iambhsanto
+# Social profiles with full URLs (easier for some themes)
+social_links:
+  github: "https://github.com/bhsanto"
+  linkedin: "https://linkedin.com/in/bhsanto"
+  twitter: "https://twitter.com/iambhsanto"
 
-# Repository settings
-repository: bhsanto/bhsanto.github.io
+# Repository URL for GitHub Pages
+repository_url: "https://github.com/bhsanto/bhsanto.github.io"
 
-# Footer content
-footer_content: "© 2025 Md Belal Hossain Santo. All rights reserved."
+# Footer text
+footer_text: "© 2025 Md Belal Hossain Santo. All rights reserved."
 
-# Show downloads
-show_downloads: false
+# Navigation menu
+nav_links:
+  - name: "About"
+    link: "/"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Blog"
+    link: "/blog"
+  - name: "Contact"
+    link: "/contact"
 
-# Navigation (if you want multiple pages)
-navigation:
-  - title: About
-    url: /
-  - title: Projects
-    url: /#projects
-  - title: Contact
-    url: /#contact
+# Optional: show downloads or portfolio section
+show_downloads: true

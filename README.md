@@ -2,8 +2,8 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&color=36BCF7FF&width=435&lines=Junior+Data+Scientist;Python+Enthusiast;Machine+Learning+Practitioner;Data+Storyteller)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=36BCF7FF&width=435&lines=Junior+Data+Scientist;Python+Enthusiast;Machine+Learning+Practitioner;Data+Storyteller)](https://git.io/typing-svg)
+
 </div>
 
 ## 🎯 About Me

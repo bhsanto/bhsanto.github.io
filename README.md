@@ -1,16 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=👋%20Hi,%20I'm%20Md%20Belal%20Hossain%20Santo&fontSize=35&fontColor=white)
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=36BCF7FF&width=435&lines=Junior+Data+Scientist;Python+Enthusiast;Machine+Learning+Practitioner;Data+Storyteller)](https://git.io/typing-svg)
-
-</div>
-
-## 🎯 About Me
+## About Me
 
 I'm a passionate **Junior Data Scientist** with a strong foundation in statistical analysis, machine learning, and data visualization. I love transforming complex data into meaningful insights that drive business decisions. Currently exploring deep learning applications and MLOps practices.
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 <div align="center">
 

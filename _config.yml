@@ -11,12 +11,9 @@ plugins:
   - jekyll-remote-theme # add this line to use the remote theme
 
 # Social links
-github_username: https://github.com/bhsanto
-linkedin_username: https://www.linkedin.com/in/bhsanto
-twitter_username: https://x.com/iambhsanto
-
-# Analytics (optional)
-google_analytics: [your-GA-ID]
+github_username: bhsanto
+linkedin_username: bhsanto
+twitter_username: iambhsanto
 
 # Repository settings
 repository: bhsanto/bhsanto.github.io

@@ -30,16 +30,4 @@ repository_url: "https://github.com/bhsanto/bhsanto.github.io"
 # Footer text
 footer_text: "© 2025 Md Belal Hossain Santo. All rights reserved."
 
-# Navigation menu
-nav_links:
-  - name: "About"
-    link: "/"
-  - name: "Projects"
-    link: "/projects"
-  - name: "Blog"
-    link: "/blog"
-  - name: "Contact"
-    link: "/contact"
-
-# Optional: show downloads or portfolio section
 show_downloads: true

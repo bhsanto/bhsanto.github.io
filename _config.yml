@@ -1,5 +1,37 @@
-title: Md Belal Hossain Santo
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
+# _config.yml
+title: [Your Full Name] | Data Scientist
+description: Junior Data Scientist passionate about transforming data into actionable insights
+author: [Your Name]
+email: [your.email@domain.com]
+
+# Theme settings
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to use the remote theme
+
+# Social links
+github_username: [your-github-username]
+linkedin_username: [your-linkedin-username]
+twitter_username: [your-twitter-handle]
+
+# Analytics (optional)
+google_analytics: [your-GA-ID]
+
+# Repository settings
+repository: [your-username]/[your-username].github.io
+
+# Footer content
+footer_content: "© 2025 [Your Name]. All rights reserved."
+
+# Show downloads
+show_downloads: false
+
+# Navigation (if you want multiple pages)
+navigation:
+  - title: About
+    url: /
+  - title: Projects
+    url: /#projects
+  - title: Contact
+    url: /#contact

@@ -1,8 +1,8 @@
 # _config.yml
-title: [Your Full Name] | Data Scientist
+title: Md Belal Hossain Santo | Data Scientist
 description: Junior Data Scientist passionate about transforming data into actionable insights
-author: [Your Name]
-email: [your.email@domain.com]
+author: Md Belal Hossain Santo
+email: bhsanto786@gmail.com
 
 # Theme settings
 theme: jekyll-theme-minimal
@@ -11,18 +11,18 @@ plugins:
   - jekyll-remote-theme # add this line to use the remote theme
 
 # Social links
-github_username: [your-github-username]
-linkedin_username: [your-linkedin-username]
-twitter_username: [your-twitter-handle]
+github_username: https://github.com/bhsanto
+linkedin_username: https://www.linkedin.com/in/bhsanto
+twitter_username: https://x.com/iambhsanto
 
 # Analytics (optional)
 google_analytics: [your-GA-ID]
 
 # Repository settings
-repository: [your-username]/[your-username].github.io
+repository: bhsanto/bhsanto.github.io
 
 # Footer content
-footer_content: "© 2025 [Your Name]. All rights reserved."
+footer_content: "© 2025 Md Belal Hossain Santo. All rights reserved."
 
 # Show downloads
 show_downloads: false

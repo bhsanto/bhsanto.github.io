@@ -42,25 +42,25 @@ I'm a passionate **Junior Data Scientist** with a strong foundation in statistic
 - **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib
 - **Description**: Built a regression model using Random Forest and XGBoost to predict house prices with 92% accuracy
 - **Key Features**: Feature engineering, cross-validation, hyperparameter tuning
-- **[🔗 Live Demo](https://your-demo-link.com)** | **[📁 Repository](https://github.com/[username]/house-price-prediction)**
+- **[📁 Repository](https://github.com/[username]/house-price-prediction)**
 
 ### 2. 📱 Customer Churn Analysis
 - **Tech Stack**: Python, SQL, Tableau, Logistic Regression
 - **Description**: Analyzed customer churn patterns for a telecom company, identifying key factors affecting retention
 - **Key Features**: Customer segmentation, survival analysis, actionable insights
-- **[🔗 Live Demo](https://your-demo-link.com)** | **[📁 Repository](https://github.com/[username]/customer-churn-analysis)**
+- **[📁 Repository](https://github.com/[username]/customer-churn-analysis)**
 
 ### 3. 📈 Stock Market Sentiment Analysis
 - **Tech Stack**: Python, NLTK, LSTM, Flask
 - **Description**: Created a sentiment analysis tool that predicts stock movements based on news sentiment
 - **Key Features**: Real-time data processing, REST API, interactive dashboard
-- **[🔗 Live Demo](https://your-demo-link.com)** | **[📁 Repository](https://github.com/[username]/stock-sentiment-analysis)**
+- **[📁 Repository](https://github.com/[username]/stock-sentiment-analysis)**
 
 ### 4. 🏥 Medical Diagnosis AI
 - **Tech Stack**: TensorFlow, CNN, Streamlit
 - **Description**: Developed a CNN model to classify chest X-rays for pneumonia detection
 - **Key Features**: 94% accuracy, web deployment, explainable AI
-- **[🔗 Live Demo](https://your-demo-link.com)** | **[📁 Repository](https://github.com/[username]/medical-diagnosis-ai)**
+- **[📁 Repository](https://github.com/[username]/medical-diagnosis-ai)**
 
 ## 📈 Learning Journey
 

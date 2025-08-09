@@ -8,8 +8,15 @@ I'm a passionate **Junior Data Scientist** with a strong foundation in statistic
 
 <div align="center">
 
-### **Tech Stack**
-**Python** • **SQL** • **Pandas** • **NumPy** • **Scikit-learn** • **TensorFlow** • **Tableau** • **Git**
+### **My Toolkit**
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql) |
+| **Libraries** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn) |
+| **Deep Learning** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=plotly) |
+| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
 
 </div>
 

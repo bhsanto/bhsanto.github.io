@@ -7,55 +7,40 @@ I'm a passionate **Junior Data Scientist** with a strong foundation in statistic
 
 ##  Featured Projects
 
-### 1. 🏠 House Price Prediction Model
+### 1. House Price Prediction Model
 - **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib
 - **Description**: Built a regression model using Random Forest and XGBoost to predict house prices with 92% accuracy
 - **Key Features**: Feature engineering, cross-validation, hyperparameter tuning
 - **[📁 Repository](https://github.com/[username]/house-price-prediction)**
 
-### 2. 📱 Customer Churn Analysis
+### 2. Customer Churn Analysis
 - **Tech Stack**: Python, SQL, Tableau, Logistic Regression
 - **Description**: Analyzed customer churn patterns for a telecom company, identifying key factors affecting retention
 - **Key Features**: Customer segmentation, survival analysis, actionable insights
 - **[📁 Repository](https://github.com/[username]/customer-churn-analysis)**
 
-### 3. 📈 Stock Market Sentiment Analysis
+### 3. Stock Market Sentiment Analysis
 - **Tech Stack**: Python, NLTK, LSTM, Flask
 - **Description**: Created a sentiment analysis tool that predicts stock movements based on news sentiment
 - **Key Features**: Real-time data processing, REST API, interactive dashboard
 - **[📁 Repository](https://github.com/[username]/stock-sentiment-analysis)**
 
-### 4. 🏥 Medical Diagnosis AI
+### 4. Medical Diagnosis AI
 - **Tech Stack**: TensorFlow, CNN, Streamlit
 - **Description**: Developed a CNN model to classify chest X-rays for pneumonia detection
 - **Key Features**: 94% accuracy, web deployment, explainable AI
 - **[📁 Repository](https://github.com/[username]/medical-diagnosis-ai)**
 
-## 📈 Learning Journey
+## Learning Journey
 
-### 🎓 Certifications & Courses
-- **IBM Data Science Professional Certificate** - Coursera (2024)
-- **Deep Learning Specialization** - Andrew Ng (2024)
-- **SQL for Data Science** - UC Davis (2023)
-- **Python for Data Analysis** - DataCamp (2023)
+### Certifications & Courses
 
-### 📚 Currently Learning
-- **MLOps and Model Deployment**
-- **Advanced Deep Learning (Transformers, BERT)**
-- **Big Data Technologies (Spark, Hadoop)**
+### Currently Learning
 
 
 ## Let's Connect!
 
-<a href="https://github.com/bhsanto" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/bhsanto" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/iambhsanto" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="mailto:bhsanto786@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bhsanto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhsanto)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iambhsanto)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhsanto786@gmail.com)

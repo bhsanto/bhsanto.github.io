@@ -36,6 +36,9 @@ Aspiring Data Scientist with strong software engineering skills. Skilled in turn
 
 ### Currently Learning
 
+## Résumé
+
+  <p><a href="{{ site.resume_file }}">Download my résumé (PDF)</a></p>
 
 ## Let's Connect!
 
